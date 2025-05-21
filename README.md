@@ -1,8 +1,7 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-
-NAME : SIVA SHALINI.S
-REG.NO
+NAME : AASHIKA JAIN.G 
+REG NO. : 212224110001
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
